@@ -1,13 +1,8 @@
-# 🌦 Project: DEMO DAY W.I.P.
+#  Project: MoneyTrack
 
-<img src="https://cdn.dribbble.com/users/3231685/screenshots/14445192/media/23f9cf6d07617635d87d3abb52237af9.png" width="400" height="auto">
+<img src="./img/Screen Shot 2025-11-04 at 1.27.23 PM.png" width="400" height="auto">
 
-# Free HTML & SASS Landing Template
 
-Modern free landing page for sass software or app!
-
-[Checkout the live demo](https://sanderdebr.github.io/html-sass-landing-template/) | [Checkout the custom design](https://dribbble.com/shots/14445192-Landing-page-template)
-<hr/>
 
 ### Goal: 
 Create an ok DemoDayProject
